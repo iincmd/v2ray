@@ -6,3 +6,5 @@ cd v2ray
 chmod +x install.sh
 
 ./install.sh local
+
+某些需安装git后逐行编译
