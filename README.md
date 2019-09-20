@@ -16,3 +16,12 @@ chmod +x install.sh
 备注：不推荐使用 Debian 8 系统，因为 Caddy 申请证书可能会出现一些莫名其妙的问题
 
 https://github.com/233boy/v2ray/fork
+
+
+apt-get install sudo
+
+
+sudo apt update
+
+
+sudo apt install git
